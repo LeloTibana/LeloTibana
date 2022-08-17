@@ -1,10 +1,8 @@
 - Hi, I’m @LeloTibana, I only started my journey in coding in October 2021.
-- I’m interested in many things in life, at this point Web Development
-- I’m currently learning Front-end web development, more specifically JavaScript
-- I’m looking to collaborate on any projects that can help me get better at Front-end Development
-- How to reach me? You can reach me at tibana1996@gmail.com
+- I am at this point in time skilled in both Front- end and Back-end development. 
+- On the Front-end side I skilled in JavaScript - and ES6. With framework/library knowledge in Bootstrap, React, Sass.
+- On the Bank-end I have built back-end servers and APIs using Node and Express. Furthermore, I have worked with NoSQL databases like MongoDB.
+- Moreover I have dived deep into Python programming and become quite accomplished in it. I can work with Flask, Django, Tkinter/Turtle, web screaping with Beautiful Soup or Selenium WebDriver, SQL, NumPy, Pandas and many other skills involving Python. 
 
-<!---
-LeloTibana/LeloTibana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am at the stage now where I am entering the job market with no experience but great hunger and desire to help any company or individual who could use my skills. Whether it be on a temporary or permenant basis - I am also willing to relocate to any country if the need should arise.
